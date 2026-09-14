@@ -1,0 +1,7 @@
+SITE_BASE_URL=https://ziyuechen0-art.github.io/photoshop-connector-site/
+CONNECTOR_DOWNLOAD_URL=https://ziyuechen0-art.github.io/photoshop-connector-site/downloads/Photoshop-Connector-Setup.exe
+PRIVACY_POLICY_URL=https://ziyuechen0-art.github.io/photoshop-connector-site/privacy.html
+SUPPORT_URL=https://ziyuechen0-art.github.io/photoshop-connector-site/support.html
+INSTALL_GUIDE_URL=https://ziyuechen0-art.github.io/photoshop-connector-site/install.html
+UNINSTALL_GUIDE_URL=https://ziyuechen0-art.github.io/photoshop-connector-site/support.html#uninstall
+TROUBLESHOOTING_URL=https://ziyuechen0-art.github.io/photoshop-connector-site/support.html#troubleshooting
